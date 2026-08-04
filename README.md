@@ -2,7 +2,7 @@
 
 ## About the Project
 
-**FinTrack AI** is a personal finance management and analytics dashboard developed using **Python and Streamlit** to help users track, analyze, and manage their financial activities efficiently.
+FinTrack AI is an AI-powered Personal Finance Dashboard built using Python and Streamlit that helps users take control of their finances by tracking income, managing expenses, analyzing spending patterns, and planning future savings—all from a single dashboard.
 
 The application provides a centralized platform for recording income and expenses, monitoring financial health, managing budgets, tracking savings goals, and understanding spending behavior through interactive analytics.
 
@@ -425,9 +425,3 @@ https://github.com/sriram-dev00
 
 LinkedIn:
 https://www.linkedin.com/in/sriram-m-j-5491a7322/
-
----
-
-# License
-
-This project is licensed under the MIT License.
